@@ -69,7 +69,6 @@ def show_predict_page():
         "Master's degree", 
         "Bachelor's degree", 
         'Less than a Bachelors',
-        'Post grad'
     )
     
     country = st.selectbox("Country", countries)
