@@ -51,8 +51,6 @@ def show_predict_page():
         'Developer, mobile',
         'Developer, desktop or enterprise applications',
         'Engineer, site reliability',
-        'Other',
-        'Other (please specify):',
         'Developer, embedded applications or devices',
         'Engineering manager',
         'DevOps specialist',
