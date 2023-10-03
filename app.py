@@ -90,6 +90,6 @@ def show_predict_page():
         salary = regressor.predict(X)
         st.subheader(f"The estimated salary is ${salary[0]:.2f}")
         
-    st.write("""**DISCLAIMER:** The prediction is done using a survey data collected on stackoverflow in 2022 so the estimated salary is with respect to exchange rates at the time of the survey.""")
+    
         
 show_predict_page()
